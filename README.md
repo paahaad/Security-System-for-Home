@@ -1,4 +1,5 @@
-#Security System for Home Using Rasberry Pi and Computer Vision.
+# Security System for Home
+Security System for Home Using Rasberry Pi and Computer Vision.
 OpenCV is open source computer vision module which can help to read the image. We will integrate OpneCV to Rasberry Pi,with the help of pi camera we detect the human face and set a massage to user.
 
 Explaination:-
